@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello there!, My alias is Azunera, my real name is Enmanuel David Puglisi Rincón.
+
+I´m student aspiring to be a software developer. I´m currently studying Python and JavaScript at the moment.
 
 <!--
 **Azunera/Azunera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
